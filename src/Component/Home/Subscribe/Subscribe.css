@@ -1,0 +1,35 @@
+.subscribe-part {
+    padding: 120px 0px;
+}
+
+.sub-content h3 {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.sub-content p {
+    color: #525252;
+}
+
+.form-control {
+    padding: 25px 150px 25px 25px;
+    border-radius: 15px;
+    border: 1px solid #525252;
+}
+
+.sub-email {
+    position: relative;
+}
+
+.sub-btn {
+    position: absolute;
+    top: 0;
+    right: 35px;
+    margin-top: 7px;
+    background: #525252;
+    color: #ffffff;
+}
+
+.sub-btn:hover {
+    color: #ffffff;
+}

@@ -1,0 +1,24 @@
+.background-part {
+    background-image: url(../../../Image/banner-img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.background-part .bg-overlay {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.bg-content {
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+.bg-content h2 {
+    font-weight: 700;
+    font-size: 44px;
+}
+
+.bg-content p {
+    font-weight: 500;
+    font-size: 20px;
+}

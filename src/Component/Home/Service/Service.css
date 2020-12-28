@@ -1,0 +1,27 @@
+.service-part {
+    padding-top: 25px;
+}
+
+.service-heading h2 {
+    padding: 20px 0px;
+    font-weight: 700;
+    font-size: 35px;
+    text-transform: uppercase;
+}
+
+.service-items {
+    position: relative;
+    top: -300%;
+}
+
+.service-content h1 {
+    font-weight: 700;
+    font-size: 50px;
+    color: #525252;
+}
+
+.service-content p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #525252;
+}

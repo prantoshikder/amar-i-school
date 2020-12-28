@@ -1,0 +1,14 @@
+.about-part {
+    padding: 50px 0px;
+}
+
+.about-heading h2 {
+    padding: 15px 0px;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.about-content p {
+    font-size: 18px;
+    line-height: 30px;
+}

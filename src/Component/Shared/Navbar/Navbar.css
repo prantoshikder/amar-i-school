@@ -1,0 +1,27 @@
+.navbar-nav {
+    margin-right: 75px;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 20px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    padding: 0px 8px;
+    border-radius: 5px;
+    transition: .3s ease-in-out;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    background: #000;
+    color: #fff;
+}
+
+.header-top-icon ul li {
+    margin-left: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
